@@ -6,9 +6,9 @@
       "volume": "TEST",
       "label": "파이프라인 검증",
       "date": "2026 · 08",
-      "revision": 3,
+      "revision": 4,
       "base": "issues/vol-test/",
-      "bytes": 76946
+      "bytes": 76853
     }
   ]
 }

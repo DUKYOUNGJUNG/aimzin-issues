@@ -5,7 +5,7 @@
   "volume": "TEST",
   "label": "파이프라인 검증",
   "date": "2026 · 08",
-  "revision": 3,
+  "revision": 4,
   "pdf": "issue.pdf",
   "copy": {
     "prompt-1": "아래 내용을 초등학생도 알아들을 수 있게 세 줄로 바꿔줘. 날짜와 내가 해야 할 일은 빠뜨리지 마.",
@@ -17,7 +17,7 @@
       "type": "pdf",
       "pdfPage": 1,
       "section": "COVER",
-      "readable": "A I'm Zin\n파이프라인이 도는지 봅니다.\n조판 → PDF → 발행 → 감상.\nTEST · 파이프라인 검증 2026 · 08"
+      "readable": "A I'm Zin\n파이프라인이 도는지 봅니다.\n조판 → PDF → 배포 → 감상.\nTEST · 파이프라인 검증 2026 · 08"
     },
     {
       "type": "pdf",
