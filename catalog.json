@@ -6,9 +6,9 @@
       "volume": "VOL.0",
       "label": "창간준비호",
       "date": "2026 · 09",
-      "revision": 1,
+      "revision": 2,
       "base": "issues/vol-0/",
-      "bytes": 4726400,
+      "bytes": 4762248,
       "title": "이 문자, 무슨 말이에요?",
       "blurb": "읽어도 모르겠는 것들이 어떻게 바뀌는지, 그리고 어디서 틀리는지.",
       "pageCount": 16,
@@ -38,7 +38,8 @@
           "title": "만든 사람 · 다음 호",
           "page": 15
         }
-      ]
+      ],
+      "cover": "issues/vol-0/cover.jpg"
     }
   ]
 }
